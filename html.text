@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title> Zay website</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" type="text/css" href="shoes.css">
+
+    
+</head>
+<body>
+   
+<!--  Top box   -->
+    <div class="topbox">
+        <div class="iconleft">
+            <div> <a href="info@company.com">
+                  <i class="fa-solid fa-envelope"> </i> &nbsp;  info@company.com  </a>
+            </div>
+            <div> <a href="3"> 
+                  <i class="fa-solid fa-phone"> </i> &nbsp; 010-020-0340 </a>
+            </div>
+        </div>
+
+        <div class="iconright">
+            <div> <a href="3" title="haider">   <i class="fa-brands fa-facebook"></i> </a></div>
+            <div> <a href="3" title="haider">   <i class="fa-brands fa-instagram"></i></a></div>
+            <div> <a href="3" title="haider">   <i class="fa-brands fa-twitter"></i> </a></div>
+            <div> <a href="3" title="haider">   <i class="fa-brands fa-linkedin"></i> </a></div>
+        </div>
+    </div>
+
+<!--  Top box  ends here -->
+<!--  second box tittle bar -->
+
+    <div class="zaybox">
+        <div class="zay"> Zay </div>
+            <div class="zaymiddle">
+                <div class="Home"> Home </div>
+                <div class="About"> About </div>
+                <div class="Shop"> Shop </div>
+                <div class="Contact"> Contact</div>
+            </div>
+        <div class="zayicon">    
+             <i class="fa-solid fa-magnifying-glass"></i>
+             <i class="fa-solid fa-cart-plus"></i> 
+             <i class="fa-solid fa-user"></i> 
+        </div>    
+    </div>
+
+<!--  second box tittle bar ends here-->
+<!--  third box with shoes photo   -->
+
+    <div class="photopartbox">
+        <div class="ZayeCommerce">Zay <span class="eCommerce"> eCommerce </span>  </div>
+        <div class="TinyandPerfect"> Tiny and Perfect eCommerce Template </div>
+        <div class="ZayShopisaneCommerce">Zay Shop is an eCommerce HTML5 CSS template with latest version of<br> Bootstrap 5 (beta 1). This template is 100% free provided by TemplateMo <br> website Image credits go to Freepik Stories, Unsplash and Icons 8.</div>
+        
+        <img src="shoes.jpg" title="haider" height="600px" width="600px"  class="shoesphoto">
+         
+        
+    </div>
+<!--  third box with shoes photo ends here -->
+<!-- 4 box categories of the month -->
+    <div class="categoriesofthemonth">
+        <div> Categories of the month</div>  
+        
+
+    </div>
+    <div class="Excepteursint"> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  mollit anim id est laborum.
+        
+    </div>
+<!-- 4 box categories of the month ends -->
+<!-- 5 box with 3 images  -->
+    <div class="watchesshoesandaccessoriesbox">
+
+    <div class="watchesimg">
+        <img src="watches.jpg" height="400px" width="400px" title="haider">
+        <p> Watches</p>
+        <p class="pp"> Go shop </p>
+    </div>        
+    <div class="shoes1img">
+        <img src="shoes1.jpg" height="400px" width="400px" title="haider">
+        <p> Shoes</p>
+        <p class="pp"> Go shop </p>
+    </div>
+    <div class="accessoriesimg">    
+        <img src="accessories.jpg" height="400px" width="400px" title="haider">
+        <p> Accessories  </p>
+        <p class="pp"> Go shop </p>
+    </div>    
+</div>
+    
+
+
+    
+<!-- 5 box with 3 images ends here-->
+<!-- 6 box featured productbox -->
+
+    <div class="featuredproductbox">
+    <div class="FeaturedProduct">  Fretured Product </div>
+    <div class="Reprehenderit"> Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excepteur sint occaecat cupidatat non proident.</div>
+
+        <div class="images">
+            <img src="torch.jpg" title="haider" class="torch_img">
+            <img src="watche1.jpg"  title="haider"> 
+            <img src="camera.jpg" title="haider" class="camera_img"> 
+
+        </div>
+    
+        <div class="mainbox">
+        <div class="torchbox">
+            <div class="torchprice"> 
+                <i class="fa-solid fa-star" style="color: #ffa200;"></i>
+                <i class="fa-solid fa-star" style="color: #ffa200;"></i>
+                <i class="fa-solid fa-star" style="color: #ffa200;"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <div class="priceno"> $300 </div>
+            </div>
+            <div class="GymWeight">  Gym Weight</div>
+            <div class="Lorem1"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta laudantium neque atque officia laboriosam incidunt quasi, aliquam molestias fuga! Sit.</div>
+            <div class="reveiew1">Reveiew (26)</div>
+            
+        </div> 
+        
+        <div class="watche1box">
+            <div class="watcheprice">
+                <div class="torchprice"> 
+                    <i class="fa-solid fa-star" style="color: #ffa200;"></i>
+                    <i class="fa-solid fa-star" style="color: #ffa200;"></i>
+                    <i class="fa-solid fa-star" style="color: #ffa200;"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    
+                    <div class="priceno"> $200 </div>
+                </div>
+                <div class="CloudNike"> Cloud Nike Shoe</div>
+                <div class="lorem2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, sed tempora. Eius quibusdam dolor voluptate. Delectus alias saepe asperiores est.</div>
+                <div class="reveiew2">Reveiew (22)</div>
+            </div> 
+            
+            
+        </div> 
+        <div class="camerabox">
+            <div class="cameraprice">
+                <div class="torchprice"> 
+                    <i class="fa-solid fa-star" style="color: #ffa200;"></i>
+                    <i class="fa-solid fa-star" style="color: #ffa200;"></i>
+                    <i class="fa-solid fa-star" style="color: #ffa200;"></i>
+                    <i class="fa-solid fa-star" style="color: #ffa200;"></i>
+                    <i class="fa-solid fa-star" style="color: #ffa200;"></i>
+                    
+                    
+                    <div class="priceno"> $150 </div>
+                </div>
+                <div class="SummerAddides">Summer Addides Shoes</div>
+                <div class="Lorem3"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta laudantium neque atque officia laboriosam incidunt quasi, aliquam molestias fuga! Sit.</div>
+                <div class="reveiew2">Reveiew (26)</div>
+            </div> 
+        </div> 
+    </div>
+
+
+
+        
+
+<!-- 6 box featuredproductbox ends here  -->
+<!--  footer box start here   -->
+    <div class="footer"> 
+
+        <div class="zayshopbox"> 
+                <div style="color: rgb(250, 250, 22);font-size: 80px;"> Zay shop </div>
+                <div style="color: chartreuse;font-size:  80px;"> Product </div>
+                <div style="color: rgb(255, 194, 51);font-size: 80px;"> Further Info </div>
+        </div>
+
+        <div class="box10"> 
+        
+
+                <div class="zayshopdetails">
+                            <i class="fa-solid fa-location-dot"> 123 Consectetur at ligula 10660</i>
+                            <i class="fa-solid fa-phone"> 010-020-0340 </i>
+                            <i class="fa-solid fa-envelope"> info@company.com
+                            </i>
+                </div>
+                <div class="productdetails">
+                            Luxury <br><br>
+                            Sport Wear <br><br>
+                            Men's Shoes <br><br>
+                            Women's Shoes <br><br>
+                            Popular Dress <br><br>
+                            Gym Accessories <br><br>
+                            Sport Shoes<br><br>
+                            
+
+
+                </div>
+                <div class="Furtherinfodetails">
+                            Home <br> <br>
+                            About Us
+                            Shop Locations<br> <br>
+                            FAQs<br> <br>
+                            Contact<br> <br>
+
+                </div>
+        </div>
+        <br><br><br><br>
+        <hr>
+            <div class="bottomicon"> 
+                <div class="favi_icon">
+                    <div> <a href="3" title="haider">   <i class="fa-brands fa-facebook"></i> </a></div>
+                    <div> <a href="3" title="haider">   <i class="fa-brands fa-instagram"></i></a></div>
+                    <div> <a href="3" title="haider">   <i class="fa-brands fa-twitter"></i> </a></div>
+                    <div> <a href="3" title="haider">   <i class="fa-brands fa-linkedin"></i> </a></div>
+                    </div>
+                    <input type="text" class="text" placeholder="Email address">
+                    <div class="subscibe">  Subscribe </div>
+            </div>
+            
+
+    </div>
+
+        
+        
+<!--  footer box ends  here   -->
+<!--  end box copright start here  -->
+<div class="endbox"> 
+    Copyright © 2021 Company Name | Designed by <span style="font-size: 70px;">HAIDER MIRZA</span>
+</div>
+    
+
+<!--  end box copright ends here  -->
+    
+
+
+    
+</body>
+</html>
